@@ -82,10 +82,10 @@ See https://codeplaners.com/how-to-create-laravel-8-vue-js-crud-example/
 
 # Repository on the command line
 
-echo "# Laravel-8-VueJs-crud" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/tounsils/Laravel-8-VueJs-crud.git
-git push -u origin main   
+    echo "# Laravel-8-VueJs-crud" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/tounsils/Laravel-8-VueJs-crud.git
+    git push -u origin main   
